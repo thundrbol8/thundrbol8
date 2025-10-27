@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 
 I am [Ankush Sonker](http://thundrbol8.github.io/). I am a Software Engineer working with **Nutanix, Inc.** in Database Server Provisioning Team. I have completed my **Bachelors in Technology (B.Tech)** in **Information Technology (IT)** from [IIIT Allahabad](https://iiita.ac.in/). I have professional working exeperince with: **JAVA (Spring Boot), Python, Go, Javascript (Node.js), Redis, RabbitMQ, Linux, Shell Scripting, PostgreSQL, MySQL, MongoDB, Docker and Kubernetes.** I love to solve Programming Challenges and exploring new domains of Computer Science. Connect with me on [Linkedin](https://www.linkedin.com/in/ankush-sonker) Some other more interesting facts about me below ...
 
